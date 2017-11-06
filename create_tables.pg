@@ -1,0 +1,1 @@
+create table dwellings (id SERIAL PRIMARY KEY, rent INT, admin_fee INT, surface FLOAT, walk_time INT, location TEXT );
